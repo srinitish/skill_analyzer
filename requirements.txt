@@ -1,3 +1,6 @@
 PyPDF2
 scikit-learn
 streamlit
+spacy
+numpy
+pandas
